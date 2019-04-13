@@ -1,0 +1,8 @@
+[
+
+    {
+        "name": "BitmexRSI",
+        "className": "RsiStrategy",
+        "vtSymbols": ["XBTUSD.BITMEX"]
+    }
+]
